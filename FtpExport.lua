@@ -135,7 +135,7 @@ local ftp_user = dt.new_widget("entry"){
 local ftp_password = dt.new_widget("entry"){
   tooltip ="ftp password",
   editable=false,
-  is_password=true,
+  is_password=false,
   text = dt.preferences.read("ftp export","ftp_password", "string"),
 }
 
