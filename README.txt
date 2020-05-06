@@ -1,4 +1,4 @@
-Author: Beoit Waerzeggers - bw@bewill.eu
+Author: Benoit Waerzeggers - bw@bewill.eu
 License: GNU General Public License Version 3
 
 Purpose

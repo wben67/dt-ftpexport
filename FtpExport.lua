@@ -43,7 +43,7 @@ USAGE
 	- ftp host : ftp server, do not specify "ftp://" prefix
 	- ftp port : ftp port (default is 21)
 	- ftp user : ftp user
-	- ftp pawword: ftp password
+	- ftp password: ftp password
 	- ftp remote path: full remote pathname to upload to. If last char is "/", it is intended to be a directory. 
 	                   image sent to it, with its local name
 	- ftp create dir: check this box to create full subdirectories tree
@@ -712,6 +712,3 @@ dt.register_storage("ftp_export","ftp export",
 		}
 	}
 )
---[[
-End of FTPExport
---]]
